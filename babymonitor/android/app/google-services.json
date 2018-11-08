@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "399832649637",
+    "firebase_url": "https://fcmbaby-1351a.firebaseio.com",
+    "project_id": "fcmbaby-1351a",
+    "storage_bucket": "fcmbaby-1351a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399832649637:android:0599ea257f447f31",
+        "android_client_info": {
+          "package_name": "com.babymonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399832649637-bv478k8vl9q95dj4vmmovdab7gspta53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD539V-VwYu9e_xTRhGFqqDNJGken_OumQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
